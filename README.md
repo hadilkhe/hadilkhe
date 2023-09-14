@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**hadilkhe/hadilkhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello World! I'm Hadil khenissa
 
-Here are some ideas to get you started:
+🧮 Math Student | 💻 Front-End Developer in the making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently enrolled in Re:coded Frontend Bootcamp
+
+🌱  Exploring the beautiful intersection of math and web development
+
+🔭 I'm passionate about creating visually stunning and interactive web experiences
+
+💡 Constantly learning, growing, and building cool stuff with HTML, CSS, JavaScript, and React
+
+📚 Studying theorems by day, coding by night
+
+🚀 On a mission to combine analytical thinking with creative design
+
+🤝 Let's connect and collaborate on exciting projects!
+
+📫 Reach me at hadil.khenissa2@gmail.com 
+
+
+#Mathematics #WebDevelopment #LearningByDoing #CodeLife
+
